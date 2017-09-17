@@ -1,0 +1,30 @@
+{
+  "name": "edit-file",
+  "version": "0.0.0",
+  "description": "Read=>Edit=>Write a file",
+  "main": "edit-file.js",
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/edit-file.git"
+  },
+  "author": "Ryan Van Etten",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ryanve/edit-file/issues"
+  },
+  "homepage": "https://github.com/ryanve/edit-file",
+  "devDependencies": {
+    "eslint": "^4.7.0"
+  },
+  "keywords": [
+    "javascript",
+    "filesystem",
+    "edit",
+    "file",
+    "fs"
+  ]
+}

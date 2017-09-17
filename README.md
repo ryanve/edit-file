@@ -1,5 +1,5 @@
 # [`edit-file`](https://www.npmjs.com/package/edit-file)
-Edit (read, edit, rewrite) a file in Node.js
+Edit (read, edit, write) a file in Node.js
 
 ```
 npm install edit-file

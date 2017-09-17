@@ -7,7 +7,7 @@ npm install edit-file
 
 ## API
 
-### <code>editFile(file, edit: text => text, callback: <var>done</var>)</code>
+### <code>editFile(file, edit=text=>text, callback=<var>done</var>)</code>
 
 - `file` is the filename path you want to edit. It may be relative or absolute.
 - `edit` is the editing function you use to change the text. The default returns the original text.

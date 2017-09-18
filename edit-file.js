@@ -15,7 +15,7 @@ const editFile = (file, edit, cb) => {
     if (err) throw err
     text = edit(text)
     if (void 0 === text) cb(new Error("text => undefined"))
-    fs.writeFile(abs, text, utf8, cb)
+    else fs.writeFile(abs, text, utf8, cb)
   })
 }
 

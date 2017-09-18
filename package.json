@@ -1,6 +1,6 @@
 {
   "name": "edit-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read=>Edit=>Write a file",
   "main": "edit-file.js",
   "scripts": {
